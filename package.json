@@ -1,0 +1,16 @@
+{
+  "name": "webdollar-workers",
+  "version": "0.0.1",
+  "description": "",
+  "author": "morion4000",
+  "dependencies": {
+    "async": "^2.6.1",
+    "cached-request": "^1.1.4",
+    "cheerio": "^0.22.0",
+    "cli": "^1.0.1",
+    "influxdb-nodejs": "^2.7.6",
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.87.0",
+    "underscore": "^1.9.0"
+  }
+}
